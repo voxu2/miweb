@@ -5,3 +5,4 @@ listo
 apoco soi
 cambios normales
 todos
+los demas
